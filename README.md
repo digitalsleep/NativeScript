@@ -1,4 +1,4 @@
-##NativeScript
+##Native Script
 
 ![](http://freevector.co/wp-content/uploads/2014/06/nativescript.png)
 
@@ -94,5 +94,6 @@ The result is a software architecture that allows you to build mobile apps using
 
 [NativeScript Angular](http://docs.nativescript.org/angular/start/introduction.html)
 
+[Kitchen sink example](https://www.nativescript.org/nativescript-example-application)
 
-
+[NativeScript Slack Channel](http://developer.telerik.com/wp-login.php?action=slack-invitation)
